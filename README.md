@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **data science course**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/paras-sonawane-032677220](linkedin.com/in/paras-sonawane-032677220)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/paras-sonawane/](linkedin.com/in/paras-sonawane/)
 
 - 📫 How to reach me **parassonawane7121@gmail.com**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/paras-sonawane-032677220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/paras-sonawane-032677220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/paras-sonawane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/paras-sonawane-032677220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
